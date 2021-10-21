@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DailyFit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF3FBBBDB0F74ADF88702B82E0990172 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40016C94EF50424E9B441EF3796922A3 }}
           package: .
